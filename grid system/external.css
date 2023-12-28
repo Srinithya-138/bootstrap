@@ -1,0 +1,12 @@
+.row{
+    background-color: red;
+    padding: 10px;
+}
+.col,.col-8,.col-2{
+    background-color: pink;
+    padding: 20px;
+    border: 1px solid blue;
+}
+.container{
+    background-color: grey;
+}

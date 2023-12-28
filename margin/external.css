@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+.row{
+    background-color: darkcyan;
+    margin-bottom: 10px;
+}
+.row div{
+  background-color: cornflowerblue;
+  color: white;
+}
